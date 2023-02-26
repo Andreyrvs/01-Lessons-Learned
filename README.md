@@ -9,7 +9,7 @@ Esse projeto trata-se de um site que contém as informações que aprendi na try
 ## Técnologias usadas
 
 Front-end:
-> Desenvolvido usando: HTMl, CSS
+> Desenvolvido usando: HTML, CSS
 
 ## Instalando Dependências
 
